@@ -1,2 +1,2 @@
 # google-glass
- material do curso ue fiz
+ material do curso que fiz
